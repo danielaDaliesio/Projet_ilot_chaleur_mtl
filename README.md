@@ -10,3 +10,13 @@ Les changements climatiques se font de plus en plus ressentir, notamment avec l'
 ## Objectifs du projet
 
 L'objectif de ce projet est d'analyser et de modéliser la relation entre les caractéristiques des infrastructures urbaines et la température de surface dans la région métropolitaine de Montréal. Par la suite, plusieurs modèles seront comparés afin de prédire la présence d'îlots de chaleur urbains. Cette analyse est essentielle pour aider les villes à améliorer leur aménagement urbain. En effet, la formation des ICU ne dépend pas uniquement des taux de végétation et de minéralisation, mais également d'autres facteurs, tels que la consommation d'énergie et les taux d'humidité. Comprendre les liens entre les différentes caractéristiques des infrastructures urbaines et la température de surface constitue donc une tâche complexe, qui nécessite une approche de modélisation.
+
+## Contribution des membres de l'équipe
+
+La réalisation de ce projet a fait l'objet d'une répartition équitable des tâches, tant sur le plan technique que rédactionnel. Le rapport final a été rédigé conjointement par les trois membres de l'équipe.
+
+- **Abdoul Karim Ouattara** : Il a dirigé la recherche et la collecte des données primaires. Il a également pris en charge le nettoyage du jeu de données (prétraitement et visualisation), ainsi que l'implémentation et l'optimisation du modèle de régression logistique.
+
+- **Daniela D'Aliesio** : Elle a contribué à l'identification des caractéristiques pertinentes. Elle a également implémenté la visualisation avec DBSCAN et développé le modèle XGBoost.
+
+- **Thi Ngoc Linh Nguyen** : Elle a également participé à l'identification des caractéristiques importantes. Elle a été responsable de l'implémentation du modèle Random Forest et de l'analyse de l'importance des variables.
